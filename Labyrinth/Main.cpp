@@ -72,6 +72,8 @@ int main()
 	t.push_back({ { 1, 1 }, 4 });
 
 
+
+
 	auto it = mapTrace.find(Position { 0, 0 });
 	
 	Step s2 = *it++;
